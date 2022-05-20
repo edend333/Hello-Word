@@ -1,4 +1,4 @@
 
 ## Hello Word
-this is a github demo project
+this is a github demo
 
